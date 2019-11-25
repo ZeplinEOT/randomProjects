@@ -26,7 +26,7 @@ public class Solution {
         //scanner creation.
         Scanner scan = new Scanner(System.in);
 
-        //integer value of amount of names to be added.
+        //integer value of amount of names to be added. 
         int amountOfNames = scan.nextInt();
 
         //temporary names array will hold all names provided for sorting.
