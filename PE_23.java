@@ -60,7 +60,7 @@ public class Solution {
             //divisor check.
             if (inputNumber % divisor == 0) { 
                 
-                //summation.
+                //summation. 
                 sumOfDivisors += (divisor + inputNumber / divisor); 
             }
         }
