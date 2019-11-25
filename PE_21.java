@@ -29,7 +29,7 @@ public class Solution {
             //first sum is calculated.
             firstSum = findSumOfDivisors(index);
                 
-            //checks for amicable instance.
+            //checks for amicable instance. 
             if (index == firstSum) { continue; }
 
             //second sum is computed.
